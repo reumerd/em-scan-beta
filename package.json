@@ -2,8 +2,11 @@
   "name": "em-scan-server",
   "private": true,
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": "API for EM scan Application",
   "keywords": [],
+  "engines": {
+     "node": "6.9.1"
+  },
   "dependencies": {
     "include-all": "~0.1.6",
     "rc": "1.0.1",
@@ -19,6 +22,6 @@
     "type": "git",
     "url": "git://github.com/dennisreumer/em-scan-server.git"
   },
-  "author": "dennisreumer",
+  "author": "Dennis Reumer",
   "license": ""
 }
