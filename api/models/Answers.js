@@ -8,7 +8,7 @@
 module.exports = {
 
   attributes: {
-  			name: {
+  			naam: {
   				type: 'string',
   				defaultsTo: 'Jane Doe'
   			},
@@ -16,7 +16,7 @@ module.exports = {
   				type: 'string',
   				defaultsTo: 'jane.doe@strict.nl'
   			},
-  			answers: {
+  			antwoorden: {
   				type: 'json'
   			}
   }
