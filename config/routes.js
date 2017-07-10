@@ -34,7 +34,11 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
-  }
+  },
+  "GET /answers": {response: 'forbidden'},
+  "PUT /answers": {response: 'forbidden'},
+  "DEL /answers": {response: 'forbidden'},
+
 
   /***************************************************************************
   *                                                                          *
