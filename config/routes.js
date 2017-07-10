@@ -37,7 +37,7 @@ module.exports.routes = {
   },
   "GET /answers": {response: 'forbidden'},
   "PUT /answers": {response: 'forbidden'},
-  "DEL /answers": {response: 'forbidden'},
+  "DELETE /answers": {response: 'forbidden'},
 
 
   /***************************************************************************
