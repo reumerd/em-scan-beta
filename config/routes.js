@@ -32,12 +32,13 @@ module.exports.routes = {
   *                                                                          *
   ***************************************************************************/
 
-  '/': {
-    view: 'homepage'
-  },
-  "GET /answers": {response: 'forbidden'},
-  "PUT /answers": {response: 'forbidden'},
-  "DELETE /answers": {response: 'forbidden'},
+  // '/': {
+    //view: 'homepage'
+  //},
+  
+  //"GET /answers": {response: 'forbidden'},
+  //"PUT /answers": {response: 'forbidden'},
+  //"DELETE /answers": {response: 'forbidden'},
 
 
   /***************************************************************************
