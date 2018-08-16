@@ -11,7 +11,7 @@ a [Sails](http://sailsjs.org) application
 3. Change to the root of the git repository
 4. Run "npm install ."
 5. Run "sudo sails lift"
-6. The EM server API is now accesible on http://localhost/answers
+6. The EM server API is now accesible on http://localhost:1337/answers
 
 **Setup using docker on your machine**
 
